@@ -1,6 +1,6 @@
-Student, always ready to learn new things.
-Mainly interested in:
-* __Firmwares
-* __Operating Systems
-* __Compilers
-* __Game Engines__ _#savethesource
+### Student, always ready to learn new things.
+### Mainly interested in:
+* __Firmwares__
+* __Operating Systems__
+* __Compilers__
+* __Game Engines__ 
