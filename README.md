@@ -6,6 +6,6 @@
 - Compilers
 - Game Engines
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastcharub&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastcharub&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastcharub&layout=donut&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastcharub&layout=donut&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
